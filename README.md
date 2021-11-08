@@ -19,6 +19,10 @@ Technical Assessment
 
 ## Available Scripts
 
+Deployed version.\
+To urgently access, see presentation and test responsiveness (before running in local environment)
+See prod [https://mish-pargo-pickup.netlify.app/](https://mish-pargo-pickup.netlify.app/)
+
 Git clone.\
 > ```https://github.com/mishs/pargo-pickup.git```
 
