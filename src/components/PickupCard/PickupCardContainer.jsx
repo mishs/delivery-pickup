@@ -2,8 +2,7 @@ import styled from "styled-components";
 
 export default styled.div`
   margin: auto;
-  width: 50%;
-  max-width: 75vw;
+  max-width: 50vw;
 
   & > h4 {
     margin: 0;
