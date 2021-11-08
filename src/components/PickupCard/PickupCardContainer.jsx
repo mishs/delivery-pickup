@@ -14,6 +14,7 @@ export default styled.div`
     color: #000;
     cursor: pointer;
     clear: both;
+    min-width: fit-content;
   }
   .pickup-details {
     background: #ddd;
