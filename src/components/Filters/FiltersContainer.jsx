@@ -8,6 +8,7 @@ const FiltersContainer = styled.div`
   max-height: 210px;
   overflow-y: scroll;
   overflow-x: hidden;
+  margin: 3% 5%;
 
   @media (max-width: 800px) {
     grid-template-columns: repeat(4, 25%);
