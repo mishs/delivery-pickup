@@ -1,21 +1,5 @@
 import React from "react";
-import styled from "styled-components";
-
-const FiltersContainer = styled.div`
-  display: grid;
-  grid-template-columns: repeat(6, 16.6%);
-  flex-wrap: wrap;
-  grid-column-gap: 10px;
-
-  .filter {
-    display: flex;
-    align-items: center;
-
-    input {
-      margin-right: 6px;
-    }
-  }
-`;
+import FiltersContainer from "./FiltersContainer";
 
 function Filters(props) {
   const { filters, applyFilter } = props;
