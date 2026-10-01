@@ -1,4 +1,10 @@
-# pargo-pickup
+# Delivery Pickup Selector
+
+React assessment interface for exploring pickup locations, expanding address details, and selecting a location.
+
+**Implementation:** [Selection workflows and detail presentation](https://github.com/mishs/delivery-pickup/blob/main/src/components/PickupCard/PickupCard.jsx)  
+**Portfolio:** [Explore my selected engineering work](https://github.com/mishs/mishs/blob/main/PORTFOLIO.md)
+
 Technical Assessment
 
 ## Table of Content
@@ -24,7 +30,7 @@ To urgently access, see presentation and test responsiveness (before running in 
 See prod [https://mish-pargo-pickup.netlify.app/](https://mish-pargo-pickup.netlify.app/)
 
 Git clone.\
-> ```https://github.com/mishs/pargo-pickup.git```
+> ```https://github.com/mishs/delivery-pickup.git```
 
 Install node-modules in the project directory:
 
