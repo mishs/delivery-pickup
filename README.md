@@ -1,11 +1,12 @@
 # Delivery Pickup Selector
 
-React assessment interface for exploring pickup locations, expanding address details, and selecting a location.
+**[View demo in your browser →](https://mish-pargo-pickup.netlify.app/)**
+
+React interface for exploring pickup locations, expanding address details, and selecting a location.
 
 **Implementation:** [Selection workflows and detail presentation](https://github.com/mishs/delivery-pickup/blob/main/src/components/PickupCard/PickupCard.jsx)  
 **Portfolio:** [Explore my selected engineering work](https://github.com/mishs/mishs/blob/main/PORTFOLIO.md)
 
-Technical Assessment
 
 ## Table of Content
 > ### Technologies used
